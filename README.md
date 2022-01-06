@@ -1,4 +1,4 @@
-# Basic ExpressJs Starter Template
+# Basic ExpressJs Starter Template for API
 
     -To install dependencies :
         $ npm install
